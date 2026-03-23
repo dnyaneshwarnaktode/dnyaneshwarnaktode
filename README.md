@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dnyaneshwar Naktode</h1>
 <h3 align="center">Full Stack Developer | ML Engineer | CS Student from India 🇮🇳</h3>
-
+<p align="center">
+🌐 <a href="https://portfolio-dnyaneshwar.vercel.app/" target="_blank"><b>Visit My Portfolio</b></a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dnyaneshwarnaktode&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
@@ -12,7 +14,7 @@
 - 🌱 Learning **DSA, MERN Stack & System Design**
 - 👯 Built a full-stack web platform **CollegeConnect** for inter-college collaboration
 - 🛡️ Developed a **Web Application Firewall (WAF)** – **SentinelShield**
-- 👨‍💻 All projects: [GitHub Portfolio](https://github.com/dnyaneshwarnaktode)
+- 👨‍💻 Portfolio: [Live Website](https://portfolio-dnyaneshwar.vercel.app/) | [GitHub](https://github.com/dnyaneshwarnaktode)
 - 💬 Experienced with **HTML, CSS, JavaScript & Firebase (Realtime DB)**
 - 📫 Reach me at **dnaktode2611@gmail.com**
 - ⚡ Fun fact: *I enjoy building things that actually solve problems*
@@ -21,9 +23,15 @@
 
 ### 🌐 Connect With Me
 <p align="left">
+
 <a href="https://www.linkedin.com/in/dnyaneshwar-naktode" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
+</p>
+<p align="center">
+  <a href="https://portfolio-dnyaneshwar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
