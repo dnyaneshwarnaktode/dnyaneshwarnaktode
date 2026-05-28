@@ -53,17 +53,24 @@
 - Detects malicious traffic  
 - Backend security-focused project  
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,docker,linux,git" />
+<!-- Row 1 -->
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs" />
+
+<br><br>
+
+<!-- Row 2 -->
+
+<img src="https://skillicons.dev/icons?i=express,mongodb,mysql,firebase,docker,linux,git" />
 
 </div>
 
 ---
+
 
 ## 📊 GitHub Stats
 
@@ -97,22 +104,4 @@
 
 ---
 
-## 📚 Currently Learning
 
-- 📊 Data Structures & Algorithms  
-- ⚙️ System Design  
-- 🤖 AI / LLM Engineering  
-- 🚀 Backend Scaling  
-
----
-
-## 💡 Quote I Believe In
-
-```python
-while not success:
-    learn()
-    build()
-    fail()
-    improve()
-    repeat()
-"Consistency beats talent when talent doesn't stay consistent."
