@@ -1,78 +1,112 @@
-<h1 align="center">Hi 👋, I'm Dnyaneshwar Naktode</h1>
-<h3 align="center">Full Stack Developer | ML Engineer | CS Student from India 🇮🇳</h3>
-<p align="center">
-🌐 <a href="https://portfolio-dnyaneshwar.vercel.app/" target="_blank"><b>Visit My Portfolio</b></a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dnyaneshwarnaktode&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />
+
+# Hi, I'm Dnyaneshwar Naktode 👋
+
+**Full Stack Developer · AI/ML Enthusiast · Problem Solver**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-dnyaneshwar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dnyaneshwar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnyaneshwar-naktode-8b0300289)
+[![GitHub](https://img.shields.io/badge/GitHub-dnyaneshwarnaktode-181717?style=flat&logo=github&logoColor=white)](https://github.com/dnyaneshwarnaktode)
+[![Email](https://img.shields.io/badge/Email-dnaktode2611%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dnaktode2611@gmail.com)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently working on **Offline Quantized SLM (Small Language Model)**
-- 🌱 Learning **DSA, MERN Stack & System Design**
-- 👯 Built a full-stack web platform **CollegeConnect** for inter-college collaboration
-- 🛡️ Developed a **Web Application Firewall (WAF)** – **SentinelShield**
-- 👨‍💻 Portfolio: [Live Website](https://portfolio-dnyaneshwar.vercel.app/) | [GitHub](https://github.com/dnyaneshwarnaktode)
-- 💬 Experienced with **HTML, CSS, JavaScript & Firebase (Realtime DB)**
-- 📫 Reach me at **dnaktode2611@gmail.com**
-- ⚡ Fun fact: *I enjoy building things that actually solve problems*
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSBS (2023–2027) | CGPA: 8.09  
+- 🚀 Building **AI-powered & full-stack applications**
+- 🤖 Working on **Offline Quantized Small Language Models (SLMs)**
+- 🧠 Learning **DSA, System Design & Backend Scaling**
+- 🔐 Built **SentinelShield (Web Application Firewall)**
+- 💡 I love building **real-world problem-solving projects**
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
+## 🚀 Featured Projects
 
-<a href="https://www.linkedin.com/in/dnyaneshwar-naktode-8b0300289" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-</p>
-<p align="center">
-  <a href="https://portfolio-dnyaneshwar.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+### 🤖 Sutra AI – AI Customer Support Platform
+- Built chatbot using Google Gemini API  
+- JWT authentication system  
+- Deployed on Vercel  
+🔗 https://sutra-ai-theta.vercel.app/
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages**
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>&ensp;
-</p>
-
-**Web & Backend**
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>&ensp;
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>&ensp;
-</p>
-
-**Databases & DevOps**
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>&ensp;
-</p>
-
-**ML / Data**
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>&ensp;
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>&ensp;
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>&ensp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-</p>
+### 🌐 CollegeConnect – Collaboration Platform
+- REST APIs for posts, users & events  
+- JWT-based secure login  
+- React frontend + Node backend  
+🔗 https://github.com/dnyaneshwarnaktode/College-Connect
 
 ---
+
+### 🛡️ SentinelShield – Web Application Firewall
+- Detects and blocks malicious requests  
+- Focused on backend security  
+
+---
+
+## 🛠️ Technologies & Tools
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="50"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="50"/><br>TypeScript</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>NextJS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>NodeJS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker</td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dnyaneshwarnaktode&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=dnyaneshwarnaktode&theme=tokyonight&hide_border=true" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnyaneshwarnaktode&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms  
+- System Design  
+- AI / LLM Engineering  
+- Backend Optimization  
+
+---
+
+## ✨ My Mantra
+
+```python
+while not success:
+    learn()
+    build()
+    improve()
+    stay_consistent()
