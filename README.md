@@ -94,11 +94,11 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 👾 Pac-Man Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dnyaneshwarnaktode/dnyaneshwarnaktode/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/dnyaneshwarnaktode/dnyaneshwarnaktode/output/pacman-contribution-graph.svg" />
 
 </div>
 
