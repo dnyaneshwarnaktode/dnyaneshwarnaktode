@@ -98,10 +98,9 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dnyaneshwarnaktode/dnyaneshwarnaktode/output/pacman-contribution-graph.svg" />
+<img src="https://github.com/abozanona/pacman-contribution-graph/raw/main/dist/pacman-contribution-graph.svg" />
 
 </div>
-
 ---
 
 
